@@ -4,10 +4,6 @@ I am a junior software developer, I have worked with programming languages such 
 
 Regarding frameworks, I have experience in Angular, Ionic, Laravel and Flutter.
 
-<a name="general-info"></a>
-<!--
-**leinerdev/leinerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
