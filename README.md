@@ -1,6 +1,6 @@
 # ¡Hi! I'm Leiner Barrios 👋
 
-I am a junior software developer, I have worked with programming languages such as C++, Python, JavaScript, TypeScript, PHP and Dart.
+I am very passionate about programming, especially web and mobile development, I like to create interesting projects and learn new things every day, I am currently working as a junior software developer using technologies such as Angular, Laravel, Flutter and Amazon Web Services
 
 ## Regarding frameworks, I have experience in...
 
