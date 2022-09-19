@@ -1,5 +1,8 @@
-### Hi there 👋
+# ¡Hi! I'm Leiner Barrios 👋
 
+I am a junior software developer, I have worked with programming languages such as C++, Python, JavaScript, TypeScript, PHP and Dart.
+
+Regarding frameworks, I have experience in Angular, Ionic, Laravel and Flutter.
 <!--
 **leinerdev/leinerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
