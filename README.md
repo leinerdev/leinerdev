@@ -9,7 +9,7 @@ const leinerdev = {
 }
 ```
 
-<p align="center">
+<p align="center" style='width:10px'>
 I am very passionate about programming, especially web and mobile development, I like to create interesting projects and learn new things every day.
   <br/>
   ¡Follow me 👇!
@@ -27,7 +27,6 @@ I am very passionate about programming, especially web and mobile development, I
   </a>
 </p>
 
-## Regarding frameworks, I have experience in...
-
+##
 
 ![Leiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=leinerdev)
