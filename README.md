@@ -3,9 +3,9 @@
 ```js
 const leinerdev = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Dart, C++],
-  tools: [Angular, Laravel, Flutter, Ionic, Electron],
-  learning: [AWS, NodeJs]
+  code: [Javascript, Typescript, HTML, CSS, PHP, Dart],
+  tools: [Angular, NodeJs, Laravel, Flutter],
+  learning: [AWS, NestJs]
 }
 ```
 
