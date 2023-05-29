@@ -19,10 +19,10 @@ I am very passionate about programming, especially web and mobile development, I
    <a href="https://www.linkedin.com/in/leinerbarrios/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leinerdev" height="28px" width="28px" />
   </a>
-  <a href="https://www.instagram.com/leinerbarriosm/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  <a href="https://www.instagram.com/leinerdev_/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leinerdev" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/leinerbarrioss" target="blank">
+  <a href="https://twitter.com/leinerdev" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
